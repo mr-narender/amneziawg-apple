@@ -1,5 +1,5 @@
-github.com/amnezia-vpn/amnezia-libxray v1.0.1-0.20260710103254-0c352e260376 h1:uBj+TaC8TWqkOrJY2lpBDEdaZBUhPKgIWEw1NBHhD+k=
-github.com/amnezia-vpn/amnezia-libxray v1.0.1-0.20260710103254-0c352e260376/go.mod h1:VJPz4GekRYzIiLGD6FYkLem+hytzyOq2At1vY3CZ+8A=
+github.com/amnezia-vpn/amnezia-libxray v1.0.1 h1:i1EjPwNqVAKosIvHyabll3PKjDl4/sxCmOJVP798GBk=
+github.com/amnezia-vpn/amnezia-libxray v1.0.1/go.mod h1:VJPz4GekRYzIiLGD6FYkLem+hytzyOq2At1vY3CZ+8A=
 github.com/amnezia-vpn/amnezia-xray-core v1.260710.0 h1:D7r+iN2pXdiQaRnvwDMTkh3M1kwXN01Jvn/Qm0X+uC4=
 github.com/amnezia-vpn/amnezia-xray-core v1.260710.0/go.mod h1:493k8kTWLap3uHH+4CtQU1ozO7Cag9DAYoh6/cQuaK0=
 github.com/amnezia-vpn/amneziawg-go v0.2.18 h1:pUn7/P8qdGmHd6JmE3bCQXPblZs3vruWR98nLODQLJg=

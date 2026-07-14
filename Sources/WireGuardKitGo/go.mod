@@ -3,7 +3,7 @@ module github.com/amnezia-vpn/amneziawg-apple
 go 1.26
 
 require (
-	github.com/amnezia-vpn/amnezia-libxray v1.0.1-0.20260710103254-0c352e260376
+	github.com/amnezia-vpn/amnezia-libxray v1.0.1
 	github.com/amnezia-vpn/amneziawg-go v0.2.18
 	github.com/xtls/xray-core v1.260710.0
 	golang.org/x/sys v0.46.0
